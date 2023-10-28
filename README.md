@@ -1,7 +1,7 @@
 # Learning-Go-Basic
 เรียน Go Basic Programing in Futureskills 
 
-# เนื้อหาที่เรียน: 
+## เนื้อหาที่เรียน: 
 - Introduction to Course
 - Introduction to Go Programming language
 - การประกาศตัวแปร
